@@ -1,0 +1,5 @@
+part_number,manufacturer,description,form,fit,function
+SN74LS00N,Texas Instruments,NAND Gate,PDIP-14,Through Hole,Logic Gate
+CD4011BE,Texas Instruments,NAND Gate,PDIP-14,Through Hole,Logic Gate
+74HC00N,NXP,NAND Gate,PDIP-14,Through Hole,Logic Gate
+MC14001BCP,ON Semiconductor,NAND Gate,PDIP-14,Through Hole,Logic Gate
