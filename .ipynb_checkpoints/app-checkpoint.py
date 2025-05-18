@@ -53,7 +53,7 @@ if uploaded_file is not None:
     file_text = extract_text_from_file(uploaded_file)
     st.info("File content loaded and ready for chat.")
 
-st.header("Chat with IC Part Finder (or Your File)")
+st.header("Chat with FindMyComponent (or Your File)")
 
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
