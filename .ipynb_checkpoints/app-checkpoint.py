@@ -9,7 +9,7 @@ import os
 client = openai.OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 st.set_page_config(layout="wide")
-st.title("IC Part Finder Chatbot 🤖")
+st.title("FindMyComponent Chatbot 🤖")
 
 st.markdown(
     """
